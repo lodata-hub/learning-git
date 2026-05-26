@@ -1,4 +1,5 @@
 start github 
 
-course 1 : commit 
+
+course 1 : commit ,gitignore 
 course 2 : push , pull 
